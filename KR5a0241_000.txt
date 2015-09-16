@@ -1,11 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 玉清金笥青華祕文金寶内鍊丹法 Yuqing Jinsi Qinghua Biwen Jinbao Neilian Danfa
-#+DATE: 2015-08-28 23:42:52
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:42:49.573805
+#+TITLE: 玉清玉笥青華秘文金寶鍊丹訣
+#+PROPERTY: DZID  DZ0240
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—362 三卷 洞真部方法類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: BASEEDITION CK-KZ
-#+PROPERTY: EXPORT_ID JY174
-#+PROPERTY: WITNESS YP JYE
-#+PROPERTY: JUAN 0
-
-尋
+#+PROPERTY: WITNESS HFL
