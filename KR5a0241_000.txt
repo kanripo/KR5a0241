@@ -1,11 +1,9 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 玉清金笥青華祕文金寶内鍊丹法 Yuqing Jinsi Qinghua Biwen Jinbao Neilian Danfa
-#+DATE: 2015-08-28 23:42:52
+#+TITLE: 玉清玉笥青華秘文金寶鍊丹訣
+#+DATE: 2015-08-28 23:42:50
+#+PROPERTY:  LASTPB <PB KR5a0241_SJB_003-040372c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: BASEEDITION CK-KZ
-#+PROPERTY: EXPORT_ID JY174
-#+PROPERTY: WITNESS YP JYE
+#+PROPERTY: WITNESS ZTDZ
 #+PROPERTY: JUAN 0
+¶¶<md:KR5a0241_HFL_003-015b>¶¶¶¶¶¶<img:image/040378b_1.bmp><img:image/040378b_2.bmp>
 
-尋
